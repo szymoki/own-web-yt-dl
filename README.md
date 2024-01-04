@@ -8,6 +8,7 @@ To build the image, execute the following command in the directory containing th
 
 ```bash
 docker build -t own-web-yt-dl .
+```
 
 ## Running the Container
 
